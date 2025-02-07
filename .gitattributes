@@ -6,3 +6,5 @@ Cargo.lock linguist-generated=false
 crates/eframe/data/* !filter !diff !merge text=auto eol=lf
 crates/egui_demo_lib/data/* !filter !diff !merge text=auto eol=lf
 crates/egui/assets/* !filter !diff !merge text=auto eol=lf
+
+# test
